@@ -10,7 +10,7 @@ Ver [Demo](https://tlapanco.github.io/juego-gato-react/)
 ## 🪝 Hooks usados
 
 - [UseState](https://react.dev/reference/react/useState)
-- UseGame [Custom Hooks](https://react.dev/learn/reusing-logic-with-custom-hooks)
+- [Custom Hooks](https://react.dev/learn/reusing-logic-with-custom-hooks) (<a href="https://github.com/tlapanco/juego-gato-react/blob/main/src/hooks/useGame.js" target="blank">UseGame</a> creado para el control del juego)
 
 ## 🖼️ Capturas 
 - Pantalla de inicio
